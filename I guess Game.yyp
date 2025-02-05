@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"BLANK GAME",
+  "%Name":"I guess Game",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -32,7 +32,7 @@
   "MetaData":{
     "IDEVersion":"2024.4.1.152",
   },
-  "name":"BLANK GAME",
+  "name":"I guess Game",
   "resources":[
     {"id":{"name":"OBJ_Floor","path":"objects/OBJ_Floor/OBJ_Floor.yy",},},
     {"id":{"name":"OBJ_Player","path":"objects/OBJ_Player/OBJ_Player.yy",},},
