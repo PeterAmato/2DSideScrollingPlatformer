@@ -19,5 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"OBJ_Floor","order":1,"path":"objects/OBJ_Floor/OBJ_Floor.yy",},
     {"name":"SPR_Floor","order":1,"path":"sprites/SPR_Floor/SPR_Floor.yy",},
+    {"name":"SPR_Player_jump","order":3,"path":"sprites/SPR_Player_jump/SPR_Player_jump.yy",},
+    {"name":"SPR_Player_walk","order":2,"path":"sprites/SPR_Player_walk/SPR_Player_walk.yy",},
   ],
 }

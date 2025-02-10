@@ -3,6 +3,7 @@
   "%Name":"OBJ_Player",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"OBJ_Player",
@@ -35,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SpritePlayer",
-    "path":"sprites/SpritePlayer/SpritePlayer.yy",
+    "name":"SPR_Player_Idle",
+    "path":"sprites/SPR_Player_Idle/SPR_Player_Idle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
