@@ -30,10 +30,10 @@ draw_set_font(FontOpenSans);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 3F40C0EB
-/// @DnDArgument : "x" "30"
+/// @DnDArgument : "x" "50"
 /// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "-15"
+/// @DnDArgument : "y" "10"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "caption" ""coins""
+/// @DnDArgument : "caption" ""Coins: ""
 /// @DnDArgument : "var" "OBJ_Player.coins"
-draw_text(x + 30, y + -15, string("coins") + string(OBJ_Player.coins));
+draw_text(x + 50, y + 10, string("Coins: ") + string(OBJ_Player.coins));
