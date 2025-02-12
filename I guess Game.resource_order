@@ -17,9 +17,18 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"OBJ_Button_Parent","order":4,"path":"objects/OBJ_Button_Parent/OBJ_Button_Parent.yy",},
+    {"name":"OBJ_Button_play","order":5,"path":"objects/OBJ_Button_play/OBJ_Button_play.yy",},
+    {"name":"OBJ_Coin","order":2,"path":"objects/OBJ_Coin/OBJ_Coin.yy",},
     {"name":"OBJ_Floor","order":1,"path":"objects/OBJ_Floor/OBJ_Floor.yy",},
+    {"name":"OBJ_Hud_coins","order":3,"path":"objects/OBJ_Hud_coins/OBJ_Hud_coins.yy",},
+    {"name":"Menu","order":1,"path":"rooms/Menu/Menu.yy",},
+    {"name":"SPR_Coin","order":4,"path":"sprites/SPR_Coin/SPR_Coin.yy",},
     {"name":"SPR_Floor","order":1,"path":"sprites/SPR_Floor/SPR_Floor.yy",},
+    {"name":"SPR_Hud_coins","order":6,"path":"sprites/SPR_Hud_coins/SPR_Hud_coins.yy",},
     {"name":"SPR_Player_jump","order":3,"path":"sprites/SPR_Player_jump/SPR_Player_jump.yy",},
     {"name":"SPR_Player_walk","order":2,"path":"sprites/SPR_Player_walk/SPR_Player_walk.yy",},
+    {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
   ],
 }
